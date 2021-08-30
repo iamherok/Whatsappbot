@@ -23,4 +23,6 @@ Follow this
 8. bash install.sh
 9. node index.js
 
+If anything goeswrong you can contact me 
+wa.me/919832361550 
 
