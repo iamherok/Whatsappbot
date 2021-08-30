@@ -10,7 +10,7 @@ I added some anime features and repaired some features.
 Its a termux bot and you can also deploy this bot in heroku.
 
 Bot download link:-https://drive.google.com/file/d/1_ZHR9O-OkGh_zcJd92GGhGYB-mzV7afq/view?usp=drivesdk
-
+Delete the session.data before use.
 
 Follow this 
 1. termux-setup-storage 
