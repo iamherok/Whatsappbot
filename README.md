@@ -1,6 +1,7 @@
 ![71be8f60-27c2-4c65-a36f-369cce06512d](https://user-images.githubusercontent.com/85019441/131303585-09356425-1894-421c-a93a-ab1124fef278.jpg)
 
-##  ![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+##  [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919832361550) 
+[![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 # Whatsappbot
 
